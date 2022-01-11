@@ -1,0 +1,7 @@
+{
+    "backendURL" : "https://data.stocksfc.com",
+    "imgURL" : "https://data.stocksfc.com/liveratings/Rewards/stats/data/Premier_League/Player_images/",
+    "playerdataURL" : "https://data.stocksfc.com/liveratings/Rewards/stats/data/Premier_League/Player_Data/",
+    "ratingURL" : "https://data.stocksfc.com/liveratings/Rewards/live_rewards/liveSiteFeed4",
+    "playgroundURL" : "https://data.stocksfc.com/liveratings/Rewards/results/teamoftheweek.json"
+}

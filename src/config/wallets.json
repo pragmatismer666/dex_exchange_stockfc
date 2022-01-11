@@ -1,0 +1,11 @@
+{
+    "deadWallet":"0xbcF85454fbe8C857932a9A123fC858e0667e2AFd",
+    "shareburnFee" : 8,
+    "feesFee" : 8,
+    "feeAddress":"0xE9D5432844D0048EDD60DAf0463A05f56fB2C077",
+    "rewardWallet":"0xE9D5432844D0048EDD60DAf0463A05f56fB2C077",
+    "ethSend": "on",
+    "depositAmount":1000,
+    "depositWallet":"0xF0D5BC18421fa04D0a2A2ef540ba5A9f04014BE3",
+    "depositPrivate":"0x2eac15546def97adc6d69ca6e28eec831189baa2533e7910755d15403a0749e8"
+}
